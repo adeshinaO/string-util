@@ -1,10 +1,10 @@
 [package]
 name = "string_util"
+description = "Supports a few operations involving strings"
+repository = "https://github.com/abdulwahabO/string-util"
+license = "MIT"
 version = "0.1.0"
 authors = ["Adeshina Ogunmodede <abdulwahabogunmodede@gmail.com>"]
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-regex = "1.3.9"
