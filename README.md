@@ -8,6 +8,6 @@ This was mostly a learning project and the feature set is very small. I don't pl
 
 ## Usage
 
-The library is a published Rust crate. See [crates.io/string_util](https://crates.io/crates/string_util.) for dependency information. The docs are hosted at [docs.rs/string_util](https://docs.rs/string_util/0.1.0/string_util/)
+The library is a published Rust crate. See [crates.io/string_util](https://crates.io/crates/string_util) for dependency information. The docs are hosted at [docs.rs/string_util](https://docs.rs/string_util/0.1.0/string_util/)
 
 
