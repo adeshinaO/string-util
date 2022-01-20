@@ -4,7 +4,7 @@
 
 A _Rusty_ library that provides a set of utility functions for various operations involving strings.
 
-This was mostly a learning project and the feature set is very small. I don't plan to devote any serious amount of time to this project but I will accept contributions. 
+This was mostly a learning project and the feature set is very small. I don't plan to devote any serious amount of time to this project. 
 
 ## Usage
 
